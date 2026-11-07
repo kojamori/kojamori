@@ -5,7 +5,7 @@ Right now, I'm developing software mods for the video game [Spaceflight Simulato
 
 How to reach me:
 - Email: kojamori at proton dot me
-- Discord: proxy_warfare
+- Discord: kojamori
 
 ### Programming Languages & Frameworks
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
