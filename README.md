@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm a student & open-source software developer.
 
+![The strongest](B049F38C-C490-44DB-884C-7AFE94C36500.jpeg)
+
 Right now, I'm developing software mods for the video game [Spaceflight Simulator](https://teamcuriosity.com/).
 
 How to reach me:
